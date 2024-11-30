@@ -32,6 +32,8 @@ Welcome to TON Dapp Builder, your ultimate platform for crafting innovative web3
 
 ---
 
+## Demo Video
+
 ## 📦 Getting Started
 
 ### Coders
