@@ -5,7 +5,7 @@ import { GreenFieldContextProvider } from "@/context/GreenFieldContext"
 
 import { cn } from "@/lib/utils"
 import { buttonVariants } from "@/components/ui/button"
-import ManageDomains from "@/components/tondomainmanagement"
+import ManageDomains from "@/components/bnbdomainmanagement"
 import DeployWebsite from "@/components/deployWebsite/DeployWebsite"
 import HowToDeploy from "@/components/deployWebsite/howToDeploy"
 import { UserAuthForm } from "@/components/deployWebsite/userauth"
